@@ -94,7 +94,7 @@
     $('.typed').typed({
       strings: [
         'My Name is Raghu',
-        "I'm a Full Stack Web Developer",
+        "I'm a Software Engineer",
         'Love Simplicity',
       ],
       typeSpeed: 100,
